@@ -1,0 +1,23 @@
+body{
+    background-color: #2C3E50 ;
+}
+.site-form{
+    width: 800px;
+    margin: 0 auto;
+    padding-top: 20px;
+}
+input,
+button{
+    width: 200px;
+    padding: 10px;
+    font-size: 15px;
+}
+button{
+    width: 100px;
+}
+.text{
+    color: #fff;
+    text-align: center;
+    font-size: 20px;
+    
+}
